@@ -1,0 +1,15 @@
+/* TitleAndMission.css */
+
+.title-and-mission {
+    max-width: 1000px;
+}
+
+.bright-font {
+    font-weight: bold;
+    font-size: 19px;
+}
+
+li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
