@@ -10,11 +10,11 @@ const ResearchBlogs: React.FC = () => {
             <div className="blog-container">
                 <h1>More to come soon!</h1>
                 <Link to="/research/blog/">
-                    <h2></h2>
+                    <h2>placeholder</h2>
                 </Link>
                 <p></p>
                 <Link to="/research/blog/">
-                    <h2></h2>
+                    <h2>placeholder</h2>
                 </Link>
                 <p></p>
             </div>
